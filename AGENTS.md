@@ -1,0 +1,1 @@
+Codex must run the unit tests with `pytest` and execute `python run_pipeline.py --symbols AAPL --start 2023-01-01 --end 2023-01-10 --db test.db` to ensure the data pipeline runs without errors before creating a PR.
